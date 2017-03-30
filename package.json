@@ -1,0 +1,15 @@
+{
+  "name": "firstbot",
+  "version": "2.0.0",
+  "description": "first bot dear",
+  "main": "mm",
+  "scripts": {
+    "test": "tt"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  }
+}
