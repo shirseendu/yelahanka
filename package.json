@@ -2,7 +2,7 @@
   "name": "firstbot",
   "version": "2.0.0",
   "description": "first bot dear",
-  "main": "mm",
+  "main": "app.js",
   "scripts": {
     "test": "tt"
   },
